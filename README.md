@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### CONNECT WITH ME
-[![Alt Text](https://png2.cleanpng.com/sh/addae4b452c69f3185b6a56d2464a1b9/L0KzQoG3VsI3N5dokZH9cnHxg8HokvVvfF5uhuV9YXf1cb60jP9od15ue9H3LUXodobpWcJiPWRofdM9LkC6QIK9UcA5OWYAS6MBMkC1RoS7U8MveJ9s/transparent-instagram-logo-icon-5ef5b92a53cea4.0701610815931620263433.png)](https://google.com)
+[![Alt Text](https://github.com/vasyldubno/vasyldubno/blob/main/instagram.png)](https://google.com)
 
 <!--
 **vasyldubno/vasyldubno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
