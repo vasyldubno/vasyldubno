@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### CONNECT WITH ME
-[![Alt Text](4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://google.com)
+[![Alt Text](https://png2.cleanpng.com/sh/addae4b452c69f3185b6a56d2464a1b9/L0KzQoG3VsI3N5dokZH9cnHxg8HokvVvfF5uhuV9YXf1cb60jP9od15ue9H3LUXodobpWcJiPWRofdM9LkC6QIK9UcA5OWYAS6MBMkC1RoS7U8MveJ9s/transparent-instagram-logo-icon-5ef5b92a53cea4.0701610815931620263433.png)](https://google.com)
 
 <!--
 **vasyldubno/vasyldubno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
