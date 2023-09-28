@@ -31,20 +31,34 @@
 
 <br /> -->
 
-## 🌏 **CONNECT WITH ME**
+<h1 align='center'> Hi there 👋, I'm Vasyl  👩‍💻 </h1>
 
-<a href="https://www.instagram.com/vasyldubno" target="_blank"> 
+<p align='center'>
+  I live in Ukraine 
+</p>
+
+<p align='center'>
+  <a href="https://www.instagram.com/vasyldubno"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vasyldubno/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vasyldubno@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/UZxYNDvV"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<!-- ## 🌏 **CONNECT WITH ME** -->
+
+<!-- <a href="https://www.instagram.com/vasyldubno" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="https://discord.gg/UZxYNDvV" target="_blank"> 
+</a> -->
+<!-- <a href="https://discord.gg/UZxYNDvV" target="_blank"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
-</a>
-<a href="mailto:vasyldubno@gmail.com" target="_blank"> 
+</a> -->
+<!-- <a href="mailto:vasyldubno@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a> 
-<a  href="https://www.linkedin.com/in/vasyldubno/">
+</a>  -->
+<!-- <a  href="https://www.linkedin.com/in/vasyldubno/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>
+</a> -->
 <!-- <a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a> -->
