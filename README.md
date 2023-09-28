@@ -218,7 +218,7 @@
 
 <br />
 
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+<!-- ![](https://ForTheBadge.com/images/badges/built-with-love.svg) -->
 
 <!-- ![](https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
 
